@@ -3,7 +3,7 @@ praw==3.1.0
 git+git://github.com/networkx/networkx.git
 numpy==1.8.1
 scipy==0.14.0
-scikit-learn==0.15.2
+scikit-learn==0.22.2
 sumy==0.3.0
 prawoauth2==0.1.5
 newspaper==0.0.9.8
